@@ -10,9 +10,8 @@ do
 echo "hello world $i"
 done
 
-echo "added"
-
-echo "2nd commit"
+ifconfig
+echo "ip address"
 
 
 
